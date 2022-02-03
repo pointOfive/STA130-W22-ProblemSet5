@@ -198,62 +198,147 @@ For each of the following scenarios, state appropriate hypotheses $H_0$ and $H_A
 
 # Part 2 [Required]
 
+# Part 2 (Choice of oral or written submission)
 
-For this week, you can complete the required task as a written assignment, or you can submit an oral response (i.e. just sound or sound and video). While it is optional this time, there will be another problem set part #2 that you will be required to complete an oral response, and therefore it is a good idea to try and practice it now! 
+For this week, you can complete the required task as a written
+assignment, OR you can submit an oral response (i.e. just sound, or
+sound and video). While it is optional *this time*, there will be two
+other problem set part \#2s that you will be required to complete an
+oral response, and therefore it is a good idea to try and practice it
+now!
 
-Write or say a short summary of ONE of the following studies. A summary *must* include the following components:   
+Suppose you were given the following dataset and told it was a survey
+conducted with a random sample of 12 student's in Prof Caetano's 4th year
+class on statistical consultation, communication, and collaboration
+(STA490). They were asked if they were currently living in Toronto
+(defined as Toronto, Etobicoke, Scarborough, York, North York and East
+York) or not and how long it took them to travel to the place they/their
+family usually purchases groceries, using whatever travel method they
+usually used to get there. **Student** is just an ID they were randomly
+assigned when the data was anonymized.
 
-  1. Context of the problem  (i.e. introduction) 
+| Student | Location    | Travel time (mins) |
+|---------|-------------|--------------------|
+| 113     | Toronto     | 20                 |
+| 120     | Not Toronto | 17                 |
+| 499     | Not Toronto | 35                 |
+| 703     | Toronto     | 7                  |
+| 190     | Toronto     | 12                 |
+| 286     | Toronto     | 45                 |
+| 203     | Not Toronto | 45                 |
+| 503     | Toronto     | 15                 |
+| 154     | Not Toronto | 50                 |
+| 334     | Toronto     | 25                 |
+| 417     | Not Toronto | 22                 |
+| 303     | Toronto     | 20                 |
 
-  2. Summary of the methods. E.g. State hypotheses; define the test statistic; etc. 
+In this writing activity you will practice writing instructions and
+demonstrate your understanding of simulation based hypothesis tests, the
+focus of Module 4.
 
-  3. Summary of the findings (i.e. the main results)  
+### Your task
 
-  4. Conclusion (e.g. main finding(s), significance, etc.)   
+Write instructions so that someone could perform ONE of the following
+hypothesis tests, using only the resources listed below. You do not have
+to use all the materials.
 
-  5. Limitations (*optional for now*, but good practice and required for the final project; e.g. study design issues etc.) 
+A)  Are 75% of the students taking STA490 this semester living in
+    Toronto?
+B)  Do students who live in Toronto have the same average travel time to
+    their local supermarket as student who don't live in Toronto?
 
- 
+#### Resources
 
-(a) A health survey asked 200 individuals aged 20-45 living in Toronto to report the number minutes they exercised last week. Researchers were interested in determining whether the average duration of exercise differed between people who consume alcohol and those who do not consume alcohol. Assume the researchers who conducted this study found that people who drank alcohol exercised, on average, 20 minutes per week. In contrast, people who did not drink alcohol exercised 40 minutes per week, on average. The researchers reported a p-value of 0.249. 
+-   A pack of 52 playing cards, half red, half blue
+-   A reusable shopping back
+-   A friend who loves doing mental arithmetic and is very good at it
+-   A printed sheet with all the travel times listed in a column, but
+    nothing else
+-   A white board
+-   A whiteboard marker
+-   A white board eraser
 
- 
+#### Key things to include
 
- 
+-   Briefly introduce which test you are choosing from above (A or B).
+-   Describe the hypotheses for your chosen test in plain words.
+-   Briefly describe why we would want to create a simulated sampling
+    distribution.
+-   Provide instructions that would enable a physical simulation of a
+    sampling distribution for your chosen test---**using only the
+    resources listed above**. Your final instruction should be "And
+    repeat steps X to Y 99 more times to get 100 total repetitions".
+    Replace X and Y with whatever the relevant steps are.
+-   *Include **at least 2** vocabulary words from this module and
+    explain/connect them with what you're doing in this physical
+    simulation.*
 
-(b) A study was conducted to examine whether the sex of a baby is related to whether the baby’s mother smoked while she was pregnant. The researchers obtained a sample of 10,000 births from a birth registry of all children born in Ontario in 2018. The researchers found that based on this sample 4% of mothers reported smoking during pregnancy and 52% of babies born to mothers who smoked were male. In contrast, 51% of babies born to mothers who did not smoke were male. The researchers reported a p-value of 0.50. 
+## Some things to keep in mind
 
- 
+-   Try to not spend more than 20 minutes on the prompt.
+-   Aim for more than 200 but less than 350 words (if **written**) and
+    no more than 4 minutes (if **oral**)
+-   Use full sentences (writing or speaking).
+-   Grammar is not the main focus of the assessment, but it is important
+    that you communicate in a clear and professional manner (i.e., no
+    slang).
+-   You do NOT need to have the resources (cards, etc.) above to do this
+    task. There is no requirement to use them or actually carry out your
+    instructions, just to create an appropriate instruction set.
+-   Be specific. A good principle when responding to a writing prompt in
+    STA130 is to assume that your audience is not aware of the subject
+    matter (or in this case has not read the prompt). You would want
+    another first year university students to be able to follow your
+    instructions.
 
- 
+## For those who choose to do an oral submission
 
-(c) Based on results from a survey of graduates from the University of Toronto, we would like to compare the median salaries of graduates of statistics programs and graduates of computer science programs. 1,000 recent graduates who completed their bachelor’s degree in the last five years were included in the study; 80% of the respondents were female and 20% were male. Among statistics graduates, the median reported income was \$76,000. Among computer science graduates, the median reported income was \$84,000. The researchers reported a p-value of 0.014. 
+-   If you choose to make a video or voice clip for the assignment, do
+    not feel the need to do tons of 'takes'. Rather, you can repeat
+    yourself if you make a mistake, or feel you are unclear. This is not
+    meant to be an additional burden, but rather to provide you with the
+    opportunity to practice your oral communication skills
 
- 
+-   You might be wondering "how can I record this"? One way to do this
+    would be to schedule a Zoom meeting and record yourself in it. You
+    can record the video to the cloud, or even directly on your
+    computer! There will be many file types, including a video version,
+    and one that is just a voice recording.
 
-(d) A team of researchers were interested in understanding millennials’ views regarding housing affordability in Toronto. The team interviewed 850 millennials currently living in Toronto. 84% reported that they felt housing prices were unaffordable in the city. Suppose the researchers were interested in testing whether this proportion was different from a study published last year, which found that 92% of millennials reported that housing costs were unaffordable. The researchers reported a p-value of 0.023. 
+-   You must provide a link/URL to your recording (e.g. through Zoom or
+    from uploading to YouTube or
+    [MyMedia](https://mymedia.library.utoronto.ca)).
+    Uploading/processing can be slow, so give yourself plenty of time to
+    prepare this. **Paste the URL directly into your answers to this
+    problem set.**
 
- 
+    -   NOTE: Your link must NOT be password protected (this is often
+        the default in Zoom sharing). You can test this by seeing if you
+        can open the file in a new browser or in incognito mode.
+        [**Files that we cannot access to mark will receive a 0.**]{.ul}
 
- 
+-   If you are looking for more ideas of how to record yourself for this
+    assignment, or run into issues on how to upload your assignment,
+    please post to Piazza.
 
-(e) Suppose a drug company was interested in testing a new weight-loss drug. They enrolled 20,000 participants and assigned 10,000 to take their new drug, SlimX, and 10,000 to take a placebo. The researchers found that over 2 months, participants who took SlimX lost, on average, 5 lbs. In comparison, the control group lost 4.5 lbs during the same time. The researchers reported a p-value of <0.0001. 
+## Vocabulary
 
- 
+-   Statistical inference
+-   Population
+-   Random sample
+-   Sampling distribution
+-   Simulation
+-   Parameter
+-   Simulation statistic
+-   Test statistic
+-   P-value
+-   Type 1 and 2 errors (also written as Type I and II errors)
+-   Comparing two population means/medians/proportions
+-   One- and two-group hypothesis tests
+-   for() loops
+-   sample()
+-   diff()
 
-## Some things to keep in mind  
-
-- Try to not spend more than 20 minutes on the prompt.    
-
-- Aim for more than 200 but less than 400 words.    
-
-- Use full sentences.    
-
-- Grammar is not the main focus of the assessment, but it is important that you communicate in a clear and professional manner (i.e., no slang or emojis should appear). 
-
-- Be specific. A good principle when responding to a prompt in STA130 is to assume that your audience is not aware of the subject matter (or in this case has not read the prompt).  
-
-- You *cannot* directly copy the sentences from the explanation provided. You also *cannot* use quotation marks in your response. You *must* rewrite or restate these responses in your own words (i.e. paraphrase). 
 
  
 
@@ -261,22 +346,27 @@ Write or say a short summary of ONE of the following studies. A summary *must* i
 
 - Provide an oral response (either voice clip or video) that is no more than 4 minutes in length.  
 
-- If you choose to make a video or voice clip for the assignment, do not feel the need to do tons of ‘takes’. Rather, you can repeat yourself if you make a mistake, or feel you are unclear. This is not meant to be an additional burden, but rather to provide you with the opportunity to practice your oral communication skills 
+- If you choose to make a video or voice clip for the assignment, do not feel the need to do tons of ‘takes’. Rather, you can repeat yourself if you make a mistake, or feel you are unclear. This is not meant to be an additional burden, but rather to provide you with the opportunity to practice your oral communication skills and get a break from writing.
 
-- You might be wondering how can I record this? One way to do this would be to schedule a Zoom meeting and record yourself in it. You can record the video to the cloud, or even directly on your computer! There will be many file types, including a video version, and one that is just a voice recording. 
+- You might be wondering how can I record this? One way to do this would be to schedule a Zoom meeting and record yourself in it. You can "Record the video to the cloud" (or directly on your computer). Several file types will be saved, including a video version, and one that is just a voice recording. 
  
+- You MUST upload a link (aka a URL) to your recording for your TA to watch your video.  Paste the URL directly into your answers to this problem set. ONLY links will be reviewed by the TA, we are not accepting mp4 or clip uploads. You can provide the zoom cloud link from your recording if you've chosen "Record to the cloud". Or, alternatively, you can upload your video to mymedia, MS Stream, YouTube, etc., though uploading/processing can be slow, so give yourself plenty of time to prepare this.
 
-- Depending on the size of your file, you may be able to upload the file directly to Quercus in the submission box. If you run into issues, you can also upload the video onto a streaming platform (e.g. YouTube or MyMedia). This will provide you with a URL that you can then submit for your assignment. Paste the URL in your answers to this problem set. 
+  - NOTE: Your link must NOT be password protected (which is often the default in Zoom sharing). Please ensure that there is NO password protection on the video/link. You can test this by seeing if you can open the file in a new browser or in incognito mode.  Files which cannot be accessed by the TA just "clicking the link" and "watching the video" (without entering a password) will receive a 0.
+  
+  - There is more information about Zoom sharing settings [here](https://support.zoom.us/hc/en-us/articles/205347605-Managing-and-sharing-cloud-recordings).
 
- 
-- If you are looking for more ideas of how to record yourself for this assignment, or run into issues on how to upload your assignment, please post to Piazza 
+-   If you are looking for more ideas of how to record yourself for this assignment or run into issues on how to upload your assignment, please post to Piazza.
 
- 
+## Example
 
-## Vocabulary  
+For example, include a line, such as the following, but change the link to your own video link:
 
-- Type I and II error    
+**URL for my submission:** <https://www.youtube.com/watch?v=dQw4w9WgXcQ>.
 
-- Comparing two population means/proportions   
+This is an acceptable submission because:
 
-- One- and two-sample hypothesis test 
+- There is a link directly in your Rmd and pdf submission.
+- The link is not a password/passcode needed to watch/listen to the video.
+
+
