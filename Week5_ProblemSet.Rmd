@@ -342,21 +342,17 @@ B)  Do students who live in Toronto have the same average travel time to
 
  
 
-## For those who choose to do an oral submission 
+## For those who choose to do the (optional) oral submission
 
-- Provide an oral response (either voice clip or video) that is no more than 4 minutes in length.  
+- Provide an oral response (either voice clip or video) that is no more than 4 minutes in length. Do not feel the need to do tons of ‘takes’. Rather, you can repeat yourself if you make a mistake, or feel you are unclear. This is not meant to be an additional burden, but rather to provide you with the opportunity to practice your oral communication skills and get a break from writing.
 
-- If you choose to make a video or voice clip for the assignment, do not feel the need to do tons of ‘takes’. Rather, you can repeat yourself if you make a mistake, or feel you are unclear. This is not meant to be an additional burden, but rather to provide you with the opportunity to practice your oral communication skills and get a break from writing.
-
-- You might be wondering how can I record this? One way to do this would be to schedule a Zoom meeting and record yourself in it. You can "Record the video to the cloud" (or directly on your computer). Several file types will be saved, including a video version, and one that is just a voice recording. 
+- You might be wondering how can I record this? One way to do this would be to schedule a Zoom meeting and record yourself in it. You can "Record the video to the cloud" (or directly on your computer). Several file types will be saved, including a video version, and one that is just a voice recording.  If you are looking for more ideas of how to record yourself for this assignment or run into issues on how to upload your assignment, please post to Piazza.
  
 - You MUST upload a link (aka a URL) to your recording for your TA to watch your video.  Paste the URL directly into your answers to this problem set. ONLY links will be reviewed by the TA, we are not accepting mp4 or clip uploads. You can provide the zoom cloud link from your recording if you've chosen "Record to the cloud". Or, alternatively, you can upload your video to mymedia, MS Stream, YouTube, etc., though uploading/processing can be slow, so give yourself plenty of time to prepare this.
 
   - NOTE: Your link must NOT be password protected (which is often the default in Zoom sharing). Please ensure that there is NO password protection on the video/link. You can test this by seeing if you can open the file in a new browser or in incognito mode.  Files which cannot be accessed by the TA just "clicking the link" and "watching the video" (without entering a password) will receive a 0.
   
   - There is more information about Zoom sharing settings [here](https://support.zoom.us/hc/en-us/articles/205347605-Managing-and-sharing-cloud-recordings).
-
--   If you are looking for more ideas of how to record yourself for this assignment or run into issues on how to upload your assignment, please post to Piazza.
 
 ## Example
 
