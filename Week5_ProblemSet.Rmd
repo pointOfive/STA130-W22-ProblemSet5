@@ -1,6 +1,6 @@
 ---
 title: "STA130H1F -- Winter 2021"
-author: "S.Caetano, N. Moon, and S. Schwartz"
+author: NAME and Student ID
 subtitle: Week 5 Problem Set
 output:
   pdf_document: default
