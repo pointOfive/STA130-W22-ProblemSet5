@@ -22,7 +22,7 @@ Your complete .Rmd file that you create for these practice problems AND the resu
 
 # Problem set grading
 
-There are two parts to your problem set. Part one is R based: there are 2 mandatory questions in part one, and additional optional questions. Optional R based questions are highly recommended as they will help prepare you for larger assessments (and help improve your R skills, of course!); but, they are *not* part of the grading for the weekly problem sets. Part two is (more) writing based: all of part two is mandatory. We recommend you use a word processing software like Microsoft Word to check for grammar errors in your written work. Note: there can be issues copying from Word to R Markdown so it may be easier to write in this file first and then copy the text to Word. Then you can make any changes flagged in Word directly in this file.
+There are two parts to your problem set. Part one is R based: there is one  mandatory questions in part one, and additional optional questions. Optional R based questions are highly recommended as they will help prepare you for larger assessments (and help improve your R skills, of course!); but, they are *not* part of the grading for the weekly problem sets. Part two is (more) writing based: all of part two is mandatory. We recommend you use a word processing software like Microsoft Word to check for grammar errors in your written work. Note: there can be issues copying from Word to R Markdown so it may be easier to write in this file first and then copy the text to Word. Then you can make any changes flagged in Word directly in this file.
   
 \newpage 
 
